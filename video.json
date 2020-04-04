@@ -1,0 +1,42 @@
+[
+	{
+		"name": "Umrah ka Tareqa",
+		"link": "asset/videos/umrah.mp4",
+		"videoID": 001,
+	},
+	{
+		"name": "Hajj ki Tareekh",
+		"link": "asset/videos/history.mp4",
+		"videoID": 002,
+	},
+	{
+		"name": "Hajj ka Tareqa",
+		"link": "asset/videos/hajj.mp4",
+		"videoID": 003,
+	},
+	{
+		"name": "Ahram Bandhne Ka Tareqa",
+		"link": "asset/videos/ahram.mp4",
+		"videoID": 004,
+	},
+	{
+		"name": "Dua ka Tareqa",
+		"link": "asset/videos/dua.mp4",
+		"videoID": 005,
+	},
+	{
+		"name": "Istilam ka Tareqa",
+		"link": "asset/videos/istilam1.mp4",
+		"videoID": 006,
+	},
+	{
+		"name": "Istilam ka tareqa 2",
+		"link": "asset/videos/istilam2.mp4",
+		"videoID": 007,
+	},
+	{
+		"name": "Tawaf k liye iztabag ka Tareqa",
+		"link": "asset/videos/tawaf.mp4",
+		"videoID": 008,
+	},
+]
